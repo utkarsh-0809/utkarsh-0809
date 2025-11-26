@@ -107,19 +107,17 @@ I'm always exploring new technologies, improving my fundamentals, and building t
 
 <!-- GitHub Stats -->
 <img 
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=utkarsh-0809&show_icons=true&theme=radical&hide_border=true" 
+  src="https://stats2-git-main-utkarsh-raghuvanshis-projects.vercel.app/api?username=utkarsh-0809&show_icons=true&theme=radical&hide_border=true" 
   height="170"
 />
 
 <!-- Top Languages -->
 <img 
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=utkarsh-0809&layout=compact&theme=radical&hide_border=true" 
+  src="https://stats2-git-main-utkarsh-raghuvanshis-projects.vercel.app/api/top-langs/?username=utkarsh-0809&layout=compact&theme=radical&hide_border=true" 
   height="170"
 />
 
 </div>
-
-
 
 
 ---
